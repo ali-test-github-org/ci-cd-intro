@@ -218,3 +218,7 @@ tags
 # Ignore all local history of files
 .history
 .ionide
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
